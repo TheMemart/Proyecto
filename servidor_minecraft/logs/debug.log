@@ -20080,3 +20080,298 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [30Nov2024 00:02:00.854] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> q crees
 [30Nov2024 00:03:21.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart Mako_lombiano_
 [30Nov2024 00:03:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mart to Mako_lombiano_]
+[30Nov2024 00:03:46.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode creative
+[30Nov2024 00:03:46.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Creative Mode]
+[30Nov2024 00:03:47.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode survival
+[30Nov2024 00:03:47.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Survival Mode]
+[30Nov2024 00:04:00.556] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> muy ezz
+[30Nov2024 00:04:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
+[30Nov2024 00:04:26.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:04:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was slain by Tank
+[30Nov2024 00:04:41.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /tp Mako_lombiano_
+[30Nov2024 00:04:41.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Teleported Mart to Mako_lombiano_]
+[30Nov2024 00:04:47.263] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/turn_1
+[30Nov2024 00:04:47.264] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[30Nov2024 00:04:47.264] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1_alt
+[30Nov2024 00:04:47.264] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_crafting
+[30Nov2024 00:04:47.265] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1
+[30Nov2024 00:04:47.265] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_2
+[30Nov2024 00:04:47.266] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_brown_mushroom
+[30Nov2024 00:04:47.266] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_copper
+[30Nov2024 00:04:47.267] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_diamonds
+[30Nov2024 00:04:47.267] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_1
+[30Nov2024 00:04:47.267] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_weapons
+[30Nov2024 00:04:47.268] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_smelting
+[30Nov2024 00:04:47.268] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_armor
+[30Nov2024 00:04:47.269] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/archer
+[30Nov2024 00:04:47.270] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/r_anchor
+[30Nov2024 00:04:47.271] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_prison
+[30Nov2024 00:04:47.271] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_emerald
+[30Nov2024 00:04:47.272] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_red_mushroom
+[30Nov2024 00:04:47.273] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_archer
+[30Nov2024 00:04:47.273] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_3
+[30Nov2024 00:04:47.274] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_rip
+[30Nov2024 00:04:47.274] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_food
+[30Nov2024 00:04:47.275] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils
+[30Nov2024 00:04:47.275] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tnt
+[30Nov2024 00:04:47.276] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_books
+[30Nov2024 00:04:47.277] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/potions
+[30Nov2024 00:04:47.278] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_iron
+[30Nov2024 00:04:47.278] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_amethyst
+[30Nov2024 00:04:47.279] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/camp
+[30Nov2024 00:04:47.280] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_potato
+[30Nov2024 00:04:47.281] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/prison
+[30Nov2024 00:04:47.282] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_potions
+[30Nov2024 00:04:47.283] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/iron_golem
+[30Nov2024 00:04:47.284] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_2
+[30Nov2024 00:04:47.284] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_redstone
+[30Nov2024 00:04:47.285] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/map
+[30Nov2024 00:04:47.286] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_1
+[30Nov2024 00:04:47.287] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/music
+[30Nov2024 00:04:47.287] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tools
+[30Nov2024 00:04:47.289] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/portal
+[30Nov2024 00:04:47.290] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_beetroot
+[30Nov2024 00:04:47.291] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_3
+[30Nov2024 00:04:47.292] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_carrot
+[30Nov2024 00:04:47.293] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/copper
+[30Nov2024 00:04:47.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/stews
+[30Nov2024 00:04:47.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_lapis
+[30Nov2024 00:04:47.295] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_gold
+[30Nov2024 00:04:47.296] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_pumpkin
+[30Nov2024 00:04:47.297] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_wheat
+[30Nov2024 00:04:47.298] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom
+[30Nov2024 00:04:47.299] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_2
+[30Nov2024 00:04:47.331] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[30Nov2024 00:04:47.333] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_3
+[30Nov2024 00:04:47.335] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_1
+[30Nov2024 00:04:47.335] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_1
+[30Nov2024 00:04:47.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_2
+[30Nov2024 00:04:47.337] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_4
+[30Nov2024 00:04:47.337] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[30Nov2024 00:04:47.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_3
+[30Nov2024 00:04:47.339] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_2
+[30Nov2024 00:04:47.340] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_5
+[30Nov2024 00:04:47.341] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[30Nov2024 00:04:47.341] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1
+[30Nov2024 00:04:47.342] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_3
+[30Nov2024 00:04:47.342] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[30Nov2024 00:04:47.343] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_4
+[30Nov2024 00:04:47.345] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_5
+[30Nov2024 00:04:47.346] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down
+[30Nov2024 00:04:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was shot by Stray
+[30Nov2024 00:04:58.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /tp Mako_lombiano_
+[30Nov2024 00:04:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Teleported Mart to Mako_lombiano_]
+[30Nov2024 00:05:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was shot by Skeleton
+[30Nov2024 00:05:24.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:05:24.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:05:37.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
+[30Nov2024 00:05:40.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:05:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:06:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
+[30Nov2024 00:06:05.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:06:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:06:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
+[30Nov2024 00:06:18.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:06:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:06:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was shot by Stray
+[30Nov2024 00:06:48.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:06:48.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:06:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ has completed the challenge [Champion Hunter]
+[30Nov2024 00:06:55.787] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[30Nov2024 00:06:55.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:06:55.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: gimm1q:value_calculator_variable_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[30Nov2024 00:06:55.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[30Nov2024 00:06:55.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:06:55.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 00:06:55.941] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[30Nov2024 00:06:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was shot by Stray
+[30Nov2024 00:06:59.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:06:59.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:07:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Zombie
+[30Nov2024 00:08:06.229] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> un dios del apocalypsis griego
+[30Nov2024 00:08:08.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:08:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:08:16.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was shot by Stray
+[30Nov2024 00:08:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Cerberus
+[30Nov2024 00:08:21.226] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> xd
+[30Nov2024 00:08:21.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode creative
+[30Nov2024 00:08:21.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Creative Mode]
+[30Nov2024 00:08:23.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /gamemode creative
+[30Nov2024 00:08:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Set own game mode to Creative Mode]
+[30Nov2024 00:08:41.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode survival
+[30Nov2024 00:08:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Survival Mode]
+[30Nov2024 00:08:57.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:08:57.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:09:01.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /gamemode survival
+[30Nov2024 00:09:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Set own game mode to Survival Mode]
+[30Nov2024 00:09:07.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mako_lombiano_'/7610, l='ServerLevel[world]', x=-434.55, y=122.00, z=-50.24] died: Mako_lombiano_ was shot by Stray
+[30Nov2024 00:11:18.629] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> estoy chill de cojones
+[30Nov2024 00:11:32.661] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> te papearon
+[30Nov2024 00:11:37.248] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> yo ando chill de cojones
+[30Nov2024 00:11:55.784] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[30Nov2024 00:11:55.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:11:55.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[30Nov2024 00:11:55.796] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: gimm1q:value_calculator_variable_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[30Nov2024 00:11:55.797] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[30Nov2024 00:11:55.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:11:55.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 00:11:55.943] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[30Nov2024 00:12:06.487] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> q
+[30Nov2024 00:12:06.793] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> q
+[30Nov2024 00:12:07.077] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> qq
+[30Nov2024 00:12:23.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
+[30Nov2024 00:12:23.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
+[30Nov2024 00:12:24.925] [Server thread/WARN] [org.kettingpowered.ketting.core.Ketting/]: Unknown entity type: top.theillusivec4.champions.common.entity.EnkindlingBulletEntity (top.theillusivec4.champions.common.entity.BaseBulletEntity)
+[30Nov2024 00:12:24.925] [Server thread/WARN] [org.kettingpowered.ketting.core.Ketting/]: Please report this to the Ketting developers at https://github.com/kettingpowered/
+[30Nov2024 00:12:55.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart Mako_lombiano_
+[30Nov2024 00:12:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mart to Mako_lombiano_]
+[30Nov2024 00:13:16.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ has made the advancement [Spooky Scary Army]
+[30Nov2024 00:13:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ has made the advancement [Boneyard]

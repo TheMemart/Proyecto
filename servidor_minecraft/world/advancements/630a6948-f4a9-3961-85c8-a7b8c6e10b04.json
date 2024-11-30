@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 00:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-11-29 23:56:09 +0000"
@@ -41,9 +47,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/mangrove_post": {
+    "criteria": {
+      "has_item": "2024-11-30 00:10:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-11-29 23:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 00:10:33 +0000"
     },
     "done": true
   },
@@ -119,9 +137,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-30 00:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-11-29 23:52:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-11-30 00:10:32 +0000"
     },
     "done": true
   },
@@ -146,6 +176,12 @@
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2024-11-29 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/jungle_post": {
+    "criteria": {
+      "has_item": "2024-11-30 00:10:33 +0000"
     },
     "done": true
   },
@@ -197,10 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-29 23:49:28 +0000",
+      "minecraft:wither_skeleton": "2024-11-30 00:09:40 +0000",
       "minecraft:husk": "2024-11-29 23:52:19 +0000",
+      "minecraft:silverfish": "2024-11-30 00:09:29 +0000",
       "minecraft:stray": "2024-11-29 23:50:30 +0000",
       "minecraft:zombie": "2024-11-29 23:49:26 +0000"
     },
@@ -248,6 +292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 23:50:51 +0000"
@@ -263,6 +313,12 @@
   "champions:kill_a_champion": {
     "criteria": {
       "kill_a_champion": "2024-11-30 00:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
     },
     "done": true
   },
@@ -284,9 +340,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-11-29 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-30 00:05:53 +0000"
     },
     "done": true
   },
@@ -332,6 +406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/blue_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2024-11-29 23:50:51 +0000"
@@ -374,9 +454,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2024-11-30 00:05:53 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
       "requirement": "2024-11-29 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_log": {
+    "criteria": {
+      "has_jungle_log": "2024-11-30 00:10:33 +0000"
     },
     "done": true
   },
@@ -428,6 +520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 00:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 23:50:51 +0000"
@@ -470,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-11-30 00:05:53 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/tattered_armor": {
     "criteria": {
       "has_cloth": "2024-11-29 23:54:03 +0000"
@@ -491,6 +595,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2024-11-29 23:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-30 00:10:32 +0000"
     },
     "done": true
   },
@@ -548,6 +658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 00:10:32 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-11-29 23:42:35 +0000"
@@ -557,6 +673,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2024-11-29 23:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
     },
     "done": true
   },
@@ -650,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-30 00:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2024-11-29 23:49:05 +0000"
@@ -668,6 +796,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-11-30 00:10:32 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-11-29 23:42:34 +0000"
@@ -683,6 +817,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2024-11-29 23:50:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_mangrove_post": {
+    "criteria": {
+      "has_item": "2024-11-30 00:10:32 +0000"
     },
     "done": true
   },
@@ -710,9 +850,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 23:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:06:50 +0000"
     },
     "done": true
   },

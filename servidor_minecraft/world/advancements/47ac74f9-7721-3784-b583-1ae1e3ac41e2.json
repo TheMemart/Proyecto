@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-29 23:59:37 +0000"
@@ -242,7 +248,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-29 23:58:12 +0000",
+      "minecraft:wither_skeleton": "2024-11-30 00:04:32 +0000",
       "minecraft:husk": "2024-11-30 00:01:09 +0000",
+      "minecraft:stray": "2024-11-30 00:03:37 +0000",
       "minecraft:zombie": "2024-11-29 23:58:32 +0000"
     },
     "done": false
@@ -256,6 +264,12 @@
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2024-11-29 23:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 00:02:47 +0000"
     },
     "done": true
   },
@@ -295,6 +309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 00:01:20 +0000"
@@ -304,6 +324,18 @@
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2024-11-30 00:01:20 +0000"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2024-11-30 00:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
     },
     "done": true
   },
@@ -319,6 +351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-11-29 23:59:07 +0000"
@@ -328,6 +366,18 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-11-29 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-30 00:05:56 +0000"
     },
     "done": true
   },
@@ -376,6 +426,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 00:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
     },
     "done": true
   },
@@ -439,6 +495,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2024-11-30 00:05:56 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
       "requirement": "2024-11-29 23:54:15 +0000"
@@ -448,6 +510,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-29 23:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 00:02:47 +0000"
     },
     "done": true
   },
@@ -559,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-11-30 00:05:56 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-11-29 23:55:12 +0000"
@@ -655,6 +729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 00:01:20 +0000"
@@ -694,6 +774,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 00:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 00:02:47 +0000"
     },
     "done": true
   },
@@ -835,9 +921,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 00:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 00:07:13 +0000"
     },
     "done": true
   },
