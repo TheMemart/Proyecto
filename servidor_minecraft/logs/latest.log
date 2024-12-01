@@ -1,89 +1,544 @@
-[30Nov2024 00:00:29.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:00:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:00:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was shot by Stray
-[30Nov2024 00:00:34.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /tp Mako_lombiano_
-[30Nov2024 00:00:34.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Teleported Mart to Mako_lombiano_]
-[30Nov2024 00:00:49.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was slain by Husk
-[30Nov2024 00:00:52.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /tp Mako_lombiano_
-[30Nov2024 00:00:52.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Teleported Mart to Mako_lombiano_]
-[30Nov2024 00:01:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
-[30Nov2024 00:01:07.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Mart'/5013, l='ServerLevel[world]', x=-392.23, y=114.00, z=-54.78] died: Mart was slain by Mart
-[30Nov2024 00:01:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart has completed the challenge [Champion Hunter]
-[30Nov2024 00:01:20.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ has made the advancement [Acquire Hardware]
-[30Nov2024 00:01:46.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was shot by Stray
-[30Nov2024 00:01:55.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:01:55.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:01:55.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
-[30Nov2024 00:01:55.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
-[30Nov2024 00:02:00.854] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> q crees
-[30Nov2024 00:03:21.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart Mako_lombiano_
-[30Nov2024 00:03:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mart to Mako_lombiano_]
-[30Nov2024 00:03:46.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode creative
-[30Nov2024 00:03:46.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Creative Mode]
-[30Nov2024 00:03:47.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode survival
-[30Nov2024 00:03:47.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Survival Mode]
-[30Nov2024 00:04:00.556] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> muy ezz
-[30Nov2024 00:04:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
-[30Nov2024 00:04:26.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:04:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:04:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was slain by Tank
-[30Nov2024 00:04:41.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /tp Mako_lombiano_
-[30Nov2024 00:04:41.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Teleported Mart to Mako_lombiano_]
-[30Nov2024 00:04:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was shot by Stray
-[30Nov2024 00:04:58.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /tp Mako_lombiano_
-[30Nov2024 00:04:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Teleported Mart to Mako_lombiano_]
-[30Nov2024 00:05:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was shot by Skeleton
-[30Nov2024 00:05:24.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:05:24.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:05:37.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
-[30Nov2024 00:05:40.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:05:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:06:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
-[30Nov2024 00:06:05.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:06:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:06:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Wither Skeleton
-[30Nov2024 00:06:18.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:06:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:06:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was shot by Stray
-[30Nov2024 00:06:48.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:06:48.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:06:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ has completed the challenge [Champion Hunter]
-[30Nov2024 00:06:55.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
-[30Nov2024 00:06:55.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
-[30Nov2024 00:06:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was shot by Stray
-[30Nov2024 00:06:59.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:06:59.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:07:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Zombie
-[30Nov2024 00:08:06.229] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> un dios del apocalypsis griego
-[30Nov2024 00:08:08.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:08:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:08:16.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was shot by Stray
-[30Nov2024 00:08:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ was slain by Cerberus
-[30Nov2024 00:08:21.226] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> xd
-[30Nov2024 00:08:21.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode creative
-[30Nov2024 00:08:21.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Creative Mode]
-[30Nov2024 00:08:23.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /gamemode creative
-[30Nov2024 00:08:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Set own game mode to Creative Mode]
-[30Nov2024 00:08:41.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode survival
-[30Nov2024 00:08:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Survival Mode]
-[30Nov2024 00:08:57.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:08:57.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:09:01.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /gamemode survival
-[30Nov2024 00:09:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Set own game mode to Survival Mode]
-[30Nov2024 00:09:07.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mako_lombiano_'/7610, l='ServerLevel[world]', x=-434.55, y=122.00, z=-50.24] died: Mako_lombiano_ was shot by Stray
-[30Nov2024 00:11:18.629] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> estoy chill de cojones
-[30Nov2024 00:11:32.661] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> te papearon
-[30Nov2024 00:11:37.248] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> yo ando chill de cojones
-[30Nov2024 00:11:55.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
-[30Nov2024 00:11:55.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
-[30Nov2024 00:12:06.487] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> q
-[30Nov2024 00:12:06.793] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> q
-[30Nov2024 00:12:07.077] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mako_lombiano_> qq
-[30Nov2024 00:12:23.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart
-[30Nov2024 00:12:23.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mako_lombiano_ to Mart]
-[30Nov2024 00:12:24.925] [Server thread/WARN] [org.kettingpowered.ketting.core.Ketting/]: Unknown entity type: top.theillusivec4.champions.common.entity.EnkindlingBulletEntity (top.theillusivec4.champions.common.entity.BaseBulletEntity)
-[30Nov2024 00:12:24.925] [Server thread/WARN] [org.kettingpowered.ketting.core.Ketting/]: Please report this to the Ketting developers at https://github.com/kettingpowered/
-[30Nov2024 00:12:55.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mako_lombiano_ issued server command: /tp Mart Mako_lombiano_
-[30Nov2024 00:12:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mako_lombiano_: Teleported Mart to Mako_lombiano_]
-[30Nov2024 00:13:16.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ has made the advancement [Spooky Scary Army]
-[30Nov2024 00:13:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mako_lombiano_ has made the advancement [Boneyard]
+[06:29:29] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
+[06:29:29] [ForkJoinPool-1-worker-1/WARN]: Mod com_github_isaiahpatton_specialsource uses the version master-SNAPSHOT which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'master'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[06:29:29] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 12
+[06:29:29] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[06:29:29] [ForkJoinPool-1-worker-3/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[06:29:30] [main/WARN]: Warnings were found!
+ - Mod 'Debugify' (debugify) 1.20.1+2.0 recommends any 3.x version of yet-another-config-lib, which is missing!
+	 - You should install any 3.x version of yet-another-config-lib for the optimal experience.
+ - Mod 'Debugify' (debugify) 1.20.1+2.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[06:29:30] [main/INFO]: Loading 143 mods:
+	- achiopt 1.0.1
+	- almanac 1.0.2
+	- balm-fabric 7.3.9
+	   \-- kuma_api 20.1.8
+	- betterdeserttemples 1.20-Fabric-3.0.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.20-Fabric-4.0.4
+	- betterfortresses 1.20-Fabric-2.0.6
+	- betterjungletemples 1.20-Fabric-2.0.5
+	- bettermineshafts 1.20-Fabric-4.0.4
+	- betteroceanmonuments 1.20-Fabric-3.0.4
+	- c2me 0.2.0+alpha.11.13
+	   |-- c2me-base 0.2.0+alpha.11.13
+	   |-- c2me-client-uncapvd 0.2.0+alpha.11.13
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.11.13
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.11.13
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.11.13
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.11.13
+	   |-- c2me-notickvd 0.2.0+alpha.11.13
+	   |-- c2me-opts-allocs 0.2.0+alpha.11.13
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.11.13
+	   |-- c2me-opts-chunkio 0.2.0+alpha.11.13
+	   |-- c2me-opts-math 0.2.0+alpha.11.13
+	   |-- c2me-opts-scheduling 0.2.0+alpha.11.13
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.11.13
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.11.13
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.11.13
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.11.13
+	   |-- c2me-server-utils 0.2.0+alpha.11.13
+	   |-- c2me-threading-chunkio 0.2.0+alpha.11.13
+	   |-- c2me-threading-lighting 0.2.0+alpha.11.13
+	   |-- c2me-threading-worldgen 0.2.0+alpha.11.13
+	   |-- com_electronwill_night-config_core 3.6.5
+	   |-- com_electronwill_night-config_toml 3.6.5
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
+	- cardboard 8
+	   \-- com_github_isaiahpatton_specialsource master-SNAPSHOT
+	- chunky 1.3.146
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- cristellib 1.1.5
+	   \-- blue_endless_jankson 1.2.3
+	- debugify 1.20.1+2.0
+	- dungeons_arise 2.1.57
+	- dungeons_arise_seven_seas 1.0.2
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- faster-random 5.1.0
+	- fastload 3.4.0
+	   |-- conditional-mixin 0.3.2
+	   |-- fastload-119-0-1-2-compat 3.4.0
+	   |-- fastload-1193-compat 3.4.0
+	   |-- fastload-1194-compat 3.4.0
+	   \-- fastload_fapi_forward 1.0.2
+	- ferritecore 6.0.1
+	- hopobettermineshaft 1.1.8
+	- hopobetterruinedportal 1.3.7
+	- hopobetterunderwaterruins 1.1.4
+	- icommon-bundle bundle
+	   \-- icommon 1.20.1
+	- icterine 1.3.0
+	- incendium 5.3.5
+	- java 17
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- letmedespawn 1.4.4
+	- lithium 0.11.2
+	- memoryleakfix 1.1.5
+	- minecraft 1.20.1
+	- mns 1.0.1-1.20-fabric
+	- modernfix 5.19.5+mc1.20.1
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_dungeons_andtavernsancientcityoverhaul 1
+	- mr_lukis_grandcapitals 1.1.1
+	- netherportalfix 13.0.1
+	- noisium 2.3.0+mc1.20-1.20.1
+	- paxi 1.20-Fabric-4.0
+	- plasmovoice 2.1.1
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- simplemod 1.20.1
+	- starlight 1.1.2+fabric.dbc156f
+	- styledplayerlist 3.1.1+1.20.1
+	   |-- placeholder-api 2.1.1+1.20
+	   |-- player-data-api 0.2.2+1.19.3
+	   \-- predicate-api 0.1.2+1.20
+	- t_and_t 1.12
+	- terralith 2.5.4
+	- vmp 0.2.0+beta.7.102
+	- wwoo 2.0.0
+	- yet_another_config_lib_v3 3.6.1+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.10.0
+	   |-- com_twelvemonkeys_common_common-io 3.10.0
+	   |-- com_twelvemonkeys_common_common-lang 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.20-Fabric-4.0.6
+	   \-- org_javassist_javassist 3.29.2-GA
+	- yungsbridges 1.20-Fabric-4.0.3
+	- yungsextras 1.20-Fabric-4.0.3
+[06:29:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Proyecto/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:29:30] [main/INFO]: Compatibility level set to JAVA_17
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[06:29:30] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[06:29:30] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[06:29:30] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[06:29:30] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[06:29:30] [main/INFO]: Please wait, Scanning plugins for events...
+[06:29:32] [main/INFO]: Found: 9 (Took: 1330ms)
+[06:29:32] [main/INFO]: Loading Libraries...
+[06:29:32] [main/INFO]: Debug: Loading library paper-api-1.20.1-R0.1-20230921.165944-178.jar
+[06:29:32] [main/INFO]: Debug: Loading library sqlite-jdbc-3.41.0.0.jar
+[06:29:32] [main/INFO]: Debug: Loading library mysql-connector-j-8.0.32.jar
+[06:29:32] [main/INFO]: Debug: Loading library commons-lang-2.6.jar
+[06:29:32] [main/INFO]: Debug: Loading library commons-collections4-4.4.jar
+[06:29:32] [main/INFO]: Debug: Loading library commons-collections-3.2.1.jar
+[06:29:32] [main/INFO]: Debug: Loading library bungeecord-chat-1.16-R0.4.jar
+[06:29:32] [main/INFO]: Debug: Loading library adventure-api-4.14.0.jar
+[06:29:32] [main/INFO]: Debug: Loading library adventure-key-4.14.0.jar
+[06:29:32] [main/INFO]: Debug: Loading library adventure-text-serializer-gson-4.14.0.jar
+[06:29:32] [main/INFO]: Debug: Loading library adventure-text-serializer-legacy-4.14.0.jar
+[06:29:32] [main/INFO]: Debug: Loading library adventure-text-serializer-plain-4.14.0.jar
+[06:29:32] [main/INFO]: Preloading Debugify
+[06:29:32] [main/WARN]: Reference map 'Fastload-1.19.4-Extension-refmap.json' for fastload-1194-compat.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:29:32] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[06:29:32] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:29:32] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 61 options available, 4 override(s) found
+[06:29:32] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[06:29:32] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[06:29:32] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[06:29:32] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[06:29:32] [main/INFO]: Applying Nashorn fix
+[06:29:32] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[06:29:32] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:29:32] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:29:33] [main/INFO]: Loading Faster Random.
+[06:29:33] [main/INFO]: -------------------------------------------------
+[06:29:33] [main/INFO]:  iCommon - Isaiah's common library for mods.
+[06:29:33] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.20.1
+[06:29:33] [main/INFO]: -------------------------------------------------
+[06:29:33] [main/INFO]: Applying mixin: MixinMinecraftServer...
+[06:29:33] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[06:29:33] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton, vmp]) disables it and children
+[06:29:33] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[06:29:33] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[06:29:33] [main/INFO]: Applied 22 mixins.
+[06:29:33] [main/ERROR]: ==============================================
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:29:33] [main/ERROR]: You won't get any support as long as it's present!
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: ==============================================
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:29:33] [main/ERROR]: You won't get any support as long as it's present!
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: ==============================================
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:29:33] [main/ERROR]: You won't get any support as long as it's present!
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: ==============================================
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:29:33] [main/ERROR]: You won't get any support as long as it's present!
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:29:33] [main/ERROR]: 
+[06:29:33] [main/ERROR]: ==============================================
+[06:29:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06:29:36] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[06:29:36] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[06:29:36] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[06:29:36] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[06:29:36] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[06:29:39] [main/WARN]: Method overwrite conflict for getPlayer in bukkitfabric.mixins.json:network.handler.MixinSPNH_PlayerCommandPreprocessEvent_1_19 from mod cardboard, previously written by org.cardboardpowered.mixin.network.MixinServerPlayNetworkHandler. Skipping method.
+[06:29:40] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06:29:40] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[06:29:40] [main/INFO]: Vanilla bootstrap took 6094 milliseconds
+[06:29:40] [main/INFO]: Reflections took 58 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:40] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:40] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[06:29:40] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[06:29:40] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[06:29:40] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[06:29:40] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[06:29:40] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[06:29:40] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:40] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:40] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[06:29:40] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[06:29:40] [main/INFO]: 
+[06:29:40] [main/INFO]: Cardboard - CardboardPowered.org
+[06:29:40] [main/INFO]: 
+[06:29:40] [main/INFO]: Registered '7' iCommon events.
+[06:29:40] [main/INFO]: Cardboard mod Loaded.
+[06:29:40] [main/INFO]: Enabled 34 bug fixes: [MC-2025, MC-7569, MC-8187, MC-14923, MC-30391, MC-31819, MC-69216, MC-72151, MC-88371, MC-89146, MC-90084, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-124117, MC-129909, MC-132878, MC-135971, MC-155509, MC-160095, MC-179072, MC-183990, MC-193343, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
+[06:29:40] [main/INFO]: Successfully Debugify'd your game!
+[06:29:40] [main/INFO]: Hello Fabric world!
+[06:29:40] [main/INFO]: iCommon Mod initialized.
+[06:29:40] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[06:29:40] [main/INFO]: Loading Noisium.
+[06:29:40] [main/INFO]: Hello Fabric world!
+[06:29:41] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[06:29:41] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[06:29:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:41] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[06:29:41] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[06:29:41] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:29:41] [main/INFO]: Bypassed Mojang DFU
+[06:29:41] [main/WARN]: Injection warning: LVT in net/minecraft/class_3225::method_14263(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;II)V has incompatible changes at opcode 358 in callback bukkitfabric.mixins.json:MixinServerPlayerInteractionManager from mod cardboard->@Inject::cb_3(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;F)V.
+ Expected: [F]
+    Found: [I]
+Available: [I, Lnet/minecraft/class_2680;, I]
+[06:29:45] [main/INFO]: Loaded 7 recipes
+[06:29:45] [main/INFO]: Loaded 7 recipes
+[06:29:45] [main/INFO]: Loaded 1404 advancements
+[06:29:45] [main/INFO]: Applied 589 biome modifications to 152 of 171 new biomes in 58.85 ms
+[06:29:45] [Server thread/INFO]: Setting IServer instance..
+[06:29:45] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[06:29:45] [Server thread/INFO]: Loading properties
+[06:29:45] [Server thread/INFO]: Default game type: SURVIVAL
+[06:29:45] [Server thread/INFO]: Generating keypair
+[06:29:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:29:45] [Server thread/INFO]: Using epoll channel type
+[06:29:46] [Server thread/INFO]: DEB: 1865
+[06:29:46] [Server thread/INFO]: This server is running Cardboard version git-3432c4c (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: null on null)
+[06:29:46] [Server thread/INFO]: Debug logging is disabled
+[06:29:46] [Server thread/INFO]: Loading Bukkit plugins...
+[06:29:46] [Server thread/INFO]: [STDOUT]: net/minecraft/class_2535
+[06:29:47] [Server thread/INFO]: Loading SkinsRestorer v15.4.4
+[06:29:47] [Server thread/INFO]: Loading spark v1.10.119
+[06:29:47] [Server thread/INFO]: Enabling SkinsRestorer v15.4.4
+[06:29:47] [Server thread/WARN]: @Final field field_9194:Ljava/util/Map; in bukkitfabric.mixins.json:MixinExplosion from mod cardboard should be final
+[06:29:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[06:29:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[06:29:49] [Server thread/FATAL]: An unexpected error occurred while starting the plugin. Please check the console for more details.
+java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
+	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRPlugin.loadStorage(SRPlugin.java:236) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRServerPlugin.startupPlatform(SRServerPlugin.java:101) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRPlugin.startup(SRPlugin.java:338) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:62) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:1510) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:535) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:466) ~[Cardboard-1.20.jar:?]
+	at net.minecraft.class_3176.handler$zhj000$cardboard$init(class_3176.java:714) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3823(class_3176.java:147) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[06:29:49] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
+[06:29:49] [Server thread/FATAL]: An unexpected error occurred while initializing the updater. Please check the console for more details.
+java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
+	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
+	at net.skinsrestorer.shared.update.UpdateCheckExecutor.checkUpdate(UpdateCheckExecutor.java:40) ~[?:?]
+	at net.skinsrestorer.shared.update.UpdateCheckInit.run(UpdateCheckInit.java:47) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRPlugin.initUpdateCheck(SRPlugin.java:250) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:74) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:1510) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:535) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:466) ~[Cardboard-1.20.jar:?]
+	at net.minecraft.class_3176.handler$zhj000$cardboard$init(class_3176.java:714) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3823(class_3176.java:147) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[06:29:49] [Server thread/INFO]: 
+[06:29:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:29:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:29:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:29:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:29:49] [Server thread/INFO]: Preparing level "world"
+[06:29:49] [Server thread/INFO]: Enforcing safe world random access
+[06:29:49] [Server thread/INFO]: Setting IWorld for world "world"
+[06:29:49] [Server thread/INFO]: Changing watch distance to 8
+[06:29:50] [Server thread/INFO]: Setting IWorld for world "world_the_end"
+[06:29:54] [Server thread/INFO]: Changing watch distance to 8
+[06:29:54] [Server thread/INFO]: Setting IWorld for world "world_nether"
+[06:29:54] [Server thread/INFO]: Changing watch distance to 8
+[06:29:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:29:59] [Server thread/INFO]: Time elapsed: 509020 ms
+[06:29:59] [Server thread/INFO]: Preparing start region for world minecraft:the_end
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:30:04] [Worker-Main-2/INFO]: Preparing spawn area: 45%
+[06:30:04] [Server thread/INFO]: Time elapsed: 4862 ms
+[06:30:04] [Server thread/INFO]: Preparing start region for world minecraft:the_nether
+[06:30:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:30:05] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[06:30:06] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[06:30:06] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[06:30:07] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[06:30:07] [Server thread/INFO]: Time elapsed: 2903 ms
+[06:30:07] [Server thread/INFO]: Enabling spark v1.10.119
+[06:30:08] [Server thread/INFO]: Using Paper ServerTickStartEvent for tick monitoring
+[06:30:08] [Server thread/INFO]: Starting background profiler...
+[06:30:09] [Server thread/INFO]: Done (20.028s)! For help, type "help"
+[06:30:09] [Server thread/WARN]: Dedicated server took 40.644 seconds to load
+[06:30:09] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[06:30:09] [Server thread/ERROR]: ==============================================
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:30:09] [Server thread/ERROR]: You won't get any support as long as it's present!
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: ==============================================
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:30:09] [Server thread/ERROR]: You won't get any support as long as it's present!
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: ==============================================
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:30:09] [Server thread/ERROR]: You won't get any support as long as it's present!
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: ==============================================
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Cardboard/Banner detected! This mod doesn't work with it!
+[06:30:09] [Server thread/ERROR]: You won't get any support as long as it's present!
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: Read more at: https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf
+[06:30:09] [Server thread/ERROR]: 
+[06:30:09] [Server thread/ERROR]: ==============================================
+[06:33:05] [User Authenticator #0/INFO]: UUID of player Mart is 630a6948-f4a9-3961-85c8-a7b8c6e10b04
+[06:33:05] [Server thread/INFO]: Mart[/127.43.243.108:59873] logged in with entity id 367 at (-5.634811825168767, 248.0, 65.22023803357311)
+[06:33:05] [Server thread/INFO]: Mart joined the game
+[06:33:05] [Server thread/FATAL]: Could not pass event PlayerJoinEvent to SkinsRestorer v15.4.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:303) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:642) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:1625) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at com.javazilla.bukkitfabric.impl.BukkitEventFactory.callEvent(BukkitEventFactory.java:153) ~[Cardboard-1.20.jar:?]
+	at net.minecraft.class_3324.handler$zhn000$cardboard$firePlayerJoinEvent(class_3324.java:2167) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3324.method_14570(class_3324.java:307) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_33800(class_3248.java:131) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_14384(class_3248.java:118) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.redirect$bfa000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:1063) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
+	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
+	at net.skinsrestorer.shared.listeners.AdminInfoListenerAdapter.handleConnect(AdminInfoListenerAdapter.java:42) ~[?:?]
+	at net.skinsrestorer.bukkit.listener.AdminInfoListener.onPlayerJoin(AdminInfoListener.java:38) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[Cardboard-1.20.jar:?]
+	... 18 more
+[06:33:05] [Server thread/INFO]: Mart joined the game
+[06:33:05] [Server thread/INFO]: Async chunk loading for player Mart completed
+[06:33:18] [Server thread/INFO]: Mart lost connection: Disconnected
+[06:33:18] [Server thread/INFO]: Mart left the game
+[06:33:33] [Server thread/INFO]: Unknown command. Type "help" for help.
+[06:33:40] [Server thread/INFO]: Unknown command. Type "help" for help.
+[06:33:51] [Server thread/INFO]: Mods: §aAchievementOptimizer§f, §aAlmanac§f, §aBalm§f, §aYUNG's Better Desert Temples§f, §aYUNG's Better Dungeons§f, §aYUNG's Better Nether Fortresses§f, §aYUNG's Better Jungle Temples§f, §aYUNG's Better Mineshafts§f, §aYUNG's Better Ocean Monuments§f, §ajankson§f, §aConcurrent Chunk Management Engine§f, §aConcurrent Chunk Management Engine (Base)§f, §aConcurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues)§f, §aConcurrent Chunk Management Engine (Fixes/General/Threading Issues)§f, §aConcurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues)§f, §aConcurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs)§f, §aConcurrent Chunk Management Engine (No Tick View Distance)§f, §aConcurrent Chunk Management Engine (Optimizations/Memory Allocations)§f, §aConcurrent Chunk Management Engine (Optimizations/Chunk Access)§f, §aConcurrent Chunk Management Engine (Optimizations/Chunk IO)§f, §aConcurrent Chunk Management Engine (Optimizations/Math)§f, §aConcurrent Chunk Management Engine (Optimizations/Scheduling)§f, §aConcurrent Chunk Management Engine (Optimizations/General WorldGen)§f, §aConcurrent Chunk Management Engine (Optimizations/Vanilla WorldGen)§f, §aConcurrent Chunk Management Engine (Rewrites/Chunk Serializer)§f, §aConcurrent Chunk Management Engine (Rewrites/Chunk IO)§f, §aConcurrent Chunk Management Engine (Server Utils)§f, §aConcurrent Chunk Management Engine (Threading/WorldGen)§f, §aConcurrent Chunk Management Engine (Threading/Lighting)§f, §aCardboard§f, §aChunky§f, §acloth-basic-math§f, §aCloth Config v11§f, §acore§f, §atoml§f, §aasyncutil§f, §acommon-image§f, §acommon-io§f, §acommon-lang§f, §aimageio-core§f, §aimageio-metadata§f, §aimageio-webp§f, §avelocity-native§f, §aconditional mixin§f, §aCristel Lib§f, §aDebugify§f, §aWhen Dungeons Arise§f, §aWhen Dungeons Arise: Seven Seas§f, §aFabric API§f, §afabric-permissions-api§f, §aFabric Loader§f, §aFaster Random§f, §aFast Load§f, §aFastload 1.19-0-1-2 Compatibility§f, §aFastload 1.19.3 Compatibility§f, §aFastload 1.19.4 Compat§f, §aFastload Fabric-api Forwarding§f, §aFerriteCore§f, §aHopo Better Mineshaft§f, §aHopo Better Ruined Portal§f, §aHopo Better Underwater Ruins§f, §aiCommonLib 1.20.1§f, §aiCommonLib-bundle§f, §aIcterine§f, §aIncendium§f, §aKrypton§f, §aKumaAPI§f, §aLet Me Despawn§f, §aLithium§f, §aMemory Leak Fix§f, §aMinecraft§f, §aMixinExtras§f, §aMoog's Nether Structures§f, §aModernFix§f, §aDungeons and Taverns§f, §aDungeons and Taverns Ancient City Overhaul§f, §aLuki's Grand Capitals§f, §aexp4j§f, §aNetherPortalFix§f, §aNoisium§f, §ajavassist§f, §agson§f, §ajson§f, §areflections§f, §athreadly§f, §aPaxi§f, §aPlaceholder API§f, §aPlasmo Voice§f, §aPlayer Data API§f, §aPredicate API§f, §aSimpleMod§f, §aStarlight§f, §aStyled Player List§f, §aTowns and Towers§f, §aTerralith§f, §aVery Many Players§f, §aWilliam Wythers' Overhauled Overworld§f, §aYetAnotherConfigLib§f, §aYUNG's API§f, §aYUNG's Bridges§f, §aYUNG's Extras§f
+[06:34:04] [User Authenticator #0/INFO]: UUID of player Mart is 630a6948-f4a9-3961-85c8-a7b8c6e10b04
+[06:34:04] [Server thread/INFO]: Mart[/127.43.243.108:34209] logged in with entity id 409 at (-5.634811825168767, 248.0, 65.22023803357311)
+[06:34:04] [Server thread/INFO]: Mart joined the game
+[06:34:04] [Server thread/FATAL]: Could not pass event PlayerJoinEvent to SkinsRestorer v15.4.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:303) ~[Cardboard-1.20.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:642) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:1625) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
+	at com.javazilla.bukkitfabric.impl.BukkitEventFactory.callEvent(BukkitEventFactory.java:153) ~[Cardboard-1.20.jar:?]
+	at net.minecraft.class_3324.handler$zhn000$cardboard$firePlayerJoinEvent(class_3324.java:2167) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3324.method_14570(class_3324.java:307) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_33800(class_3248.java:131) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_14384(class_3248.java:118) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.redirect$bfa000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:1063) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
+	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
+	at net.skinsrestorer.shared.listeners.AdminInfoListenerAdapter.handleConnect(AdminInfoListenerAdapter.java:42) ~[?:?]
+	at net.skinsrestorer.bukkit.listener.AdminInfoListener.onPlayerJoin(AdminInfoListener.java:38) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[Cardboard-1.20.jar:?]
+	... 18 more
+[06:34:04] [Server thread/INFO]: Mart joined the game
+[06:34:04] [Server thread/INFO]: Async chunk loading for player Mart completed
+[06:34:21] [Server thread/INFO]: Mart issued server command: /fa|
+[06:34:23] [Server thread/INFO]: Mart issued server command: /fabricmods
+[06:35:38] [Worker-Main-5/INFO]: Instantiating Mojang DFU
+[06:36:06] [Server thread/INFO]: Mart issued server command: /locate structure minecraft:village_plains
+[06:36:08] [Server thread/INFO]: Locating element minecraft:village_plains took 1454 ms
+[06:36:41] [Server thread/INFO]: Mart issued server command: /tp @s -3024 ~ -3056
+[06:36:41] [Server thread/INFO]: [Mart: Teleported Mart to -3023.500000, 248.000000, -3055.500000]
+[06:36:52] [Server thread/INFO]: Mart issued server command: /gamemode survival
+[06:36:52] [Server thread/INFO]: [Mart: Set own game mode to Survival Mode]
+[06:36:52] [Server thread/INFO]: Mart issued server command: /gamemode spectator
+[06:36:52] [Server thread/INFO]: [Mart: Set own game mode to Spectator Mode]
+[06:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10222ms or 204 ticks behind
+[06:37:01] [Server thread/INFO]: Mart issued server command: /gamemode survival
+[06:37:01] [Server thread/INFO]: [Mart: Set own game mode to Survival Mode]
+[06:37:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[06:37:39] [Server thread/INFO]: Mart issued server command: /gamemode spectator
+[06:37:39] [Server thread/INFO]: [Mart: Set own game mode to Spectator Mode]
+[06:37:46] [Server thread/INFO]: Mart issued server command: /gamemode survival
+[06:37:46] [Server thread/INFO]: [Mart: Set own game mode to Survival Mode]
+[06:37:48] [Server thread/INFO]: Mart issued server command: /gamemode creative
+[06:37:48] [Server thread/INFO]: [Mart: Set own game mode to Creative Mode]
+[06:38:38] [Server thread/INFO]: Mart issued server command: /tps
+[06:38:42] [Server thread/INFO]: Mart issued server command: /spark tps
+[06:38:50] [Worker-Main-4/WARN]: Empty height range: [-55 absolute--60 absolute]
+[06:38:50] [Worker-Main-4/WARN]: Empty height range: [-55 absolute--60 absolute]
+[06:38:50] [Worker-Main-4/WARN]: Empty height range: [-55 absolute--60 absolute]
