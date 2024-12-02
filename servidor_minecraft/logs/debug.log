@@ -1863,3 +1863,972 @@ java.lang.UnsupportedOperationException: null
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:269) ~[?:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [02Dec2024 21:15:07.523] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 265 help topics
+[02Dec2024 21:16:07.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 21:16:07.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 21:16:37.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /reload
+[02Dec2024 21:16:37.917] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02Dec2024 21:16:37.917] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[02Dec2024 21:16:37.917] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:16:37.920] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:16:37.922] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:16:37.923] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:16:37.925] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:16:37.928] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Disabling LifeStealZ v2.6.0-beta
+[02Dec2024 21:16:37.928] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] LifeStealZ disabled!
+[02Dec2024 21:16:37.930] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/Proyecto/servidor_minecraft/libraries/org/kettingpowered/server/forge/1.20.1-47.3.11-0.3.30/forge-1.20.1-47.3.11-0.3.30-universal.jar
+[02Dec2024 21:16:38.140] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Dec2024 21:16:38.169] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[02Dec2024 21:16:38.172] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 175 help topics
+[02Dec2024 21:16:38.189] [Server thread/INFO] [org.kettingpowered.ketting.adapters.ForgeAdapterImpl/]: Released cache of 0 mods and 0 dependencies
+[02Dec2024 21:16:38.189] [Server thread/INFO] [org.kettingpowered.ketting.adapters.BukkitAdapterImpl/]: Released cache of 0 plugins
+[02Dec2024 21:16:38.723] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+[02Dec2024 21:16:38.754] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ v1.1.28
+[02Dec2024 21:16:38.754] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ...
+[02Dec2024 21:16:38.755] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Enabling LifeStealZ v1.1.28
+[02Dec2024 21:16:38.770] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/cs-CZ.yml
+[02Dec2024 21:16:38.770] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/de-DE.yml
+[02Dec2024 21:16:38.771] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/en-US.yml
+[02Dec2024 21:16:38.771] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/es-ES.yml
+[02Dec2024 21:16:38.771] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/fr-FR.yml
+[02Dec2024 21:16:38.772] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/pl-PL.yml
+[02Dec2024 21:16:38.773] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/vi-VN.yml
+[02Dec2024 21:16:38.773] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/zh-CN.yml
+[02Dec2024 21:16:38.774] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[02Dec2024 21:16:38.802] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling LifeStealZ v1.1.28 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/kyori/adventure/text/Component
+	at org.strassburger.lifestealz.util.CommandManager.registerCommands(CommandManager.java:18) ~[?:?]
+	at org.strassburger.lifestealz.LifeStealZ.onEnable(LifeStealZ.java:44) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[?:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:572) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:440) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:994) ~[?:?]
+	at org.bukkit.Bukkit.reload(Bukkit.java:839) ~[?:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:903) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:335) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1824) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1788) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:67) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:156) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1068) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:161) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:130) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1051) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1045) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1019) ~[?:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:935) ~[?:?]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:269) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: net.kyori.adventure.text.Component
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:126) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 32 more
+[02Dec2024 21:16:38.805] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 265 help topics
+[02Dec2024 21:17:15.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /reload
+[02Dec2024 21:17:15.846] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02Dec2024 21:17:15.846] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[02Dec2024 21:17:15.846] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:17:15.848] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:17:15.849] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:17:15.851] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:17:15.852] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:17:15.852] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:17:15.853] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:17:15.854] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:17:15.863] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:17:15.865] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:17:15.867] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Disabling LifeStealZ v1.1.28
+[02Dec2024 21:17:15.867] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] LifeStealZ disabled!
+[02Dec2024 21:17:15.868] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/Proyecto/servidor_minecraft/libraries/org/kettingpowered/server/forge/1.20.1-47.3.11-0.3.30/forge-1.20.1-47.3.11-0.3.30-universal.jar
+[02Dec2024 21:17:16.092] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Dec2024 21:17:16.124] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[02Dec2024 21:17:16.128] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 175 help topics
+[02Dec2024 21:17:16.155] [Server thread/INFO] [org.kettingpowered.ketting.adapters.ForgeAdapterImpl/]: Released cache of 0 mods and 0 dependencies
+[02Dec2024 21:17:16.155] [Server thread/INFO] [org.kettingpowered.ketting.adapters.BukkitAdapterImpl/]: Released cache of 0 plugins
+[02Dec2024 21:17:16.586] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+[02Dec2024 21:17:16.596] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ v1.1.20
+[02Dec2024 21:17:16.596] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ...
+[02Dec2024 21:17:16.597] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Enabling LifeStealZ v1.1.20
+[02Dec2024 21:17:16.602] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[02Dec2024 21:17:16.614] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling LifeStealZ v1.1.20 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/kyori/adventure/text/Component
+	at org.strassburger.lifestealz.util.CommandManager.registerCommands(CommandManager.java:18) ~[?:?]
+	at org.strassburger.lifestealz.LifeStealZ.onEnable(LifeStealZ.java:46) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[?:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:572) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:440) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:994) ~[?:?]
+	at org.bukkit.Bukkit.reload(Bukkit.java:839) ~[?:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:903) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:335) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1824) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1788) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:67) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:156) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1068) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:161) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:130) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1051) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1045) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1019) ~[?:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:935) ~[?:?]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:269) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: net.kyori.adventure.text.Component
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:126) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 32 more
+[02Dec2024 21:17:16.618] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 265 help topics
+[02Dec2024 21:17:30.064] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02Dec2024 21:17:30.064] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[02Dec2024 21:17:30.065] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:17:30.067] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:17:30.068] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:17:30.070] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:17:30.071] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:17:30.073] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:17:30.074] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:17:30.074] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:17:30.074] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:17:30.075] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Disabling LifeStealZ v1.1.20
+[02Dec2024 21:17:30.075] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] LifeStealZ disabled!
+[02Dec2024 21:17:30.084] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/Proyecto/servidor_minecraft/libraries/org/kettingpowered/server/forge/1.20.1-47.3.11-0.3.30/forge-1.20.1-47.3.11-0.3.30-universal.jar
+[02Dec2024 21:17:30.320] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Dec2024 21:17:30.350] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[02Dec2024 21:17:30.354] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 175 help topics
+[02Dec2024 21:17:30.379] [Server thread/INFO] [org.kettingpowered.ketting.adapters.ForgeAdapterImpl/]: Released cache of 0 mods and 0 dependencies
+[02Dec2024 21:17:30.379] [Server thread/INFO] [org.kettingpowered.ketting.adapters.BukkitAdapterImpl/]: Released cache of 0 plugins
+[02Dec2024 21:17:30.794] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+[02Dec2024 21:17:30.802] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ v1.1.20
+[02Dec2024 21:17:30.802] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ...
+[02Dec2024 21:17:30.803] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Enabling LifeStealZ v1.1.20
+[02Dec2024 21:17:30.806] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/en-US.yml
+[02Dec2024 21:17:30.807] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/de-DE.yml
+[02Dec2024 21:17:30.807] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/cs-CZ.yml
+[02Dec2024 21:17:30.807] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[02Dec2024 21:17:30.817] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling LifeStealZ v1.1.20 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/kyori/adventure/text/Component
+	at org.strassburger.lifestealz.util.CommandManager.registerCommands(CommandManager.java:18) ~[?:?]
+	at org.strassburger.lifestealz.LifeStealZ.onEnable(LifeStealZ.java:46) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[?:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:572) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:440) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:994) ~[?:?]
+	at org.bukkit.Bukkit.reload(Bukkit.java:839) ~[?:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:903) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServer.java:888) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:395) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:372) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1114) ~[?:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:931) ~[?:?]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:269) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: net.kyori.adventure.text.Component
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:126) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 19 more
+[02Dec2024 21:17:30.820] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 265 help topics
+[02Dec2024 21:18:06.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /gamemode creative
+[02Dec2024 21:18:06.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mart: Set own game mode to Creative Mode]
+[02Dec2024 21:18:29.513] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02Dec2024 21:18:29.513] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[02Dec2024 21:18:29.513] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:18:29.515] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:18:29.516] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:18:29.517] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:18:29.518] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:18:29.519] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:18:29.521] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:18:29.521] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:18:29.521] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:18:29.521] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:18:29.521] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:18:29.522] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:18:29.523] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:18:29.524] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:18:29.524] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:18:29.524] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:18:29.526] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Disabling LifeStealZ v1.1.20
+[02Dec2024 21:18:29.526] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] LifeStealZ disabled!
+[02Dec2024 21:18:29.531] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/Proyecto/servidor_minecraft/libraries/org/kettingpowered/server/forge/1.20.1-47.3.11-0.3.30/forge-1.20.1-47.3.11-0.3.30-universal.jar
+[02Dec2024 21:18:29.710] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Dec2024 21:18:29.729] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[02Dec2024 21:18:29.732] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 175 help topics
+[02Dec2024 21:18:29.751] [Server thread/INFO] [org.kettingpowered.ketting.adapters.ForgeAdapterImpl/]: Released cache of 0 mods and 0 dependencies
+[02Dec2024 21:18:29.751] [Server thread/INFO] [org.kettingpowered.ketting.adapters.BukkitAdapterImpl/]: Released cache of 0 plugins
+[02Dec2024 21:18:30.222] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+[02Dec2024 21:18:30.245] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Loading ConditionalEvents v4.58.1
+[02Dec2024 21:18:30.246] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[02Dec2024 21:18:30.486] [Server thread/INFO] [/]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[02Dec2024 21:18:30.486] [Server thread/INFO] [/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02Dec2024 21:18:30.560] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 262 help topics
+[02Dec2024 21:18:30.653] [Craft Scheduler Thread - 1/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ce/ajneb97/managers/EventsManager$1
+[02Dec2024 21:20:14.712] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02Dec2024 21:20:14.712] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[02Dec2024 21:20:14.713] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:20:14.714] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:20:14.715] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:20:14.717] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:20:14.718] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:20:14.720] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:20:14.722] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[02Dec2024 21:20:14.723] [Server thread/INFO] [/]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[02Dec2024 21:20:14.726] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/Proyecto/servidor_minecraft/libraries/org/kettingpowered/server/forge/1.20.1-47.3.11-0.3.30/forge-1.20.1-47.3.11-0.3.30-universal.jar
+[02Dec2024 21:20:14.892] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Dec2024 21:20:14.909] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[02Dec2024 21:20:14.912] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 175 help topics
+[02Dec2024 21:20:14.930] [Server thread/INFO] [org.kettingpowered.ketting.adapters.ForgeAdapterImpl/]: Released cache of 0 mods and 0 dependencies
+[02Dec2024 21:20:14.930] [Server thread/INFO] [org.kettingpowered.ketting.adapters.BukkitAdapterImpl/]: Released cache of 0 plugins
+[02Dec2024 21:20:15.350] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+[02Dec2024 21:20:15.408] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ v2.6.0
+[02Dec2024 21:20:15.408] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Loading LifeStealZ...
+[02Dec2024 21:20:15.408] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Loading ConditionalEvents v4.58.1
+[02Dec2024 21:20:15.409] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Enabling LifeStealZ v2.6.0
+[02Dec2024 21:20:15.413] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/cs-CZ.yml
+[02Dec2024 21:20:15.413] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/de-DE.yml
+[02Dec2024 21:20:15.414] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/en-US.yml
+[02Dec2024 21:20:15.414] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/es-ES.yml
+[02Dec2024 21:20:15.414] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/fr-FR.yml
+[02Dec2024 21:20:15.415] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/pl-PL.yml
+[02Dec2024 21:20:15.415] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/vi-VN.yml
+[02Dec2024 21:20:15.416] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/zh-CN.yml
+[02Dec2024 21:20:15.416] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Saving file lang/nl-NL.yml
+[02Dec2024 21:20:15.417] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[02Dec2024 21:20:15.418] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Using SQLite storage
+[02Dec2024 21:20:15.447] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling LifeStealZ v2.6.0 (Is it up to date?)
+java.lang.UnsupportedOperationException: null
+	at com.google.common.collect.ImmutableMap.remove(ImmutableMap.java:917) ~[guava-31.1-jre.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.removeRecipe(RecipeManager.java:224) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.removeRecipe(CraftServer.java:1466) ~[?:?]
+	at org.bukkit.Bukkit.removeRecipe(Bukkit.java:1018) ~[?:?]
+	at org.strassburger.lifestealz.util.RecipeManager.removeRecipe(RecipeManager.java:92) ~[?:?]
+	at org.strassburger.lifestealz.util.RecipeManager.registerRecipes(RecipeManager.java:39) ~[?:?]
+	at org.strassburger.lifestealz.LifeStealZ.onEnable(LifeStealZ.java:66) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[?:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:572) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:440) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:994) ~[?:?]
+	at org.bukkit.Bukkit.reload(Bukkit.java:839) ~[?:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:903) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServer.java:888) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:395) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:372) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1114) ~[?:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:931) ~[?:?]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:269) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Dec2024 21:20:15.448] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[02Dec2024 21:20:15.670] [Server thread/INFO] [/]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[02Dec2024 21:20:15.670] [Server thread/INFO] [/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02Dec2024 21:20:15.763] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 269 help topics
+[02Dec2024 21:20:15.822] [Craft Scheduler Thread - 3/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ce/ajneb97/managers/EventsManager$1
+[02Dec2024 21:21:07.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 21:21:07.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 21:21:50.712] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02Dec2024 21:21:50.712] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[02Dec2024 21:21:50.713] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02Dec2024 21:21:50.714] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:21:50.714] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:21:50.714] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:21:50.714] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:21:50.714] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:21:50.714] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:21:50.714] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:21:50.715] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:21:50.717] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:21:50.718] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Dec2024 21:21:50.720] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Dec2024 21:21:50.721] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Dec2024 21:21:50.723] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[02Dec2024 21:21:50.723] [Server thread/INFO] [/]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[02Dec2024 21:21:50.724] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] Disabling LifeStealZ v2.6.0
+[02Dec2024 21:21:50.724] [Server thread/INFO] [org.strassburger.lifestealz.LifeStealZ/]: [LifeStealZ] LifeStealZ disabled!
+[02Dec2024 21:21:50.728] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/Proyecto/servidor_minecraft/libraries/org/kettingpowered/server/forge/1.20.1-47.3.11-0.3.30/forge-1.20.1-47.3.11-0.3.30-universal.jar
+[02Dec2024 21:21:50.920] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Dec2024 21:21:50.932] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[02Dec2024 21:21:50.934] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 175 help topics
+[02Dec2024 21:21:50.951] [Server thread/INFO] [org.kettingpowered.ketting.adapters.ForgeAdapterImpl/]: Released cache of 0 mods and 0 dependencies
+[02Dec2024 21:21:50.951] [Server thread/INFO] [org.kettingpowered.ketting.adapters.BukkitAdapterImpl/]: Released cache of 0 plugins
+[02Dec2024 21:21:51.345] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+[02Dec2024 21:21:51.516] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loading dynmap v3.7-SNAPSHOT-948
+[02Dec2024 21:21:51.549] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] version=git-ketting-1.20.1-0.3.30 (MC: 1.20.1)
+[02Dec2024 21:21:51.765] [Server thread/DEBUG] [ClimateSettingsPatcher/]: Patching climateSettings call in org/dynmap/bukkit/helper/v120/BukkitVersionHelperSpigot120:getBiomeBaseHumidity
+[02Dec2024 21:21:51.807] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Mod Support API available
+[02Dec2024 21:21:51.807] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Loading ConditionalEvents v4.58.1
+[02Dec2024 21:21:51.809] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
+[02Dec2024 21:21:52.150] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Added 20 custom biome mappings
+[02Dec2024 21:21:52.354] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[02Dec2024 21:21:52.354] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Web interface permissions only available for online users
+[02Dec2024 21:21:52.737] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/snakeyaml/resolver/Resolver$1
+[02Dec2024 21:21:53.278] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Extracted files upgraded
+[02Dec2024 21:21:53.304] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Mod Support processing completed
+[02Dec2024 21:21:53.402] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/utils/PatchDefinition$1
+[02Dec2024 21:21:55.709] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loaded 27 shaders.
+[02Dec2024 21:21:55.735] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loaded 83 perspectives.
+[02Dec2024 21:21:55.746] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loaded 22 lightings.
+[02Dec2024 21:21:55.761] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Starting enter/exit processing
+[02Dec2024 21:21:55.766] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/bukkit/DynmapPlugin$21
+[02Dec2024 21:21:55.767] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method <clinit>()V in class org/dynmap/bukkit/DynmapPlugin$21
+[02Dec2024 21:21:55.767] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Inject method in method org/dynmap/bukkit/DynmapPlugin$21:<clinit>()V, switch table field is $SwitchMap$org$bukkit$Material[I
+[02Dec2024 21:21:55.777] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[02Dec2024 21:21:55.800] [Dynmap Render Thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Finish marker initialization
+[02Dec2024 21:21:55.843] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/jetty/util/component/ContainerLifeCycle$1
+[02Dec2024 21:21:56.316] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/jetty/servlet/Holder$1
+[02Dec2024 21:21:56.563] [etp1647575776-122/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/jetty/util/thread/strategy/EatWhatYouKill$1
+[02Dec2024 21:21:56.573] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Web server started on address 0.0.0.0:8123
+[02Dec2024 21:21:56.589] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] version 3.7-SNAPSHOT-948 is enabled - core version 3.7-SNAPSHOT-949
+[02Dec2024 21:21:56.589] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[02Dec2024 21:21:56.589] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[02Dec2024 21:21:56.589] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[02Dec2024 21:21:56.589] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[02Dec2024 21:21:56.596] [Server thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/bukkit/helper/BukkitWorld$1
+[02Dec2024 21:21:56.606] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loaded 3 maps of world 'world'.
+[02Dec2024 21:21:56.737] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loaded 2 maps of world 'world-DIM-1'.
+[02Dec2024 21:21:56.738] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loaded 2 maps of world 'world-DIM1'.
+[02Dec2024 21:21:56.789] [Server thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Enabled
+[02Dec2024 21:21:56.791] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[02Dec2024 21:21:56.940] [Server thread/INFO] [/]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[02Dec2024 21:21:56.940] [Server thread/INFO] [/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02Dec2024 21:21:57.039] [Server thread/INFO] [org.kettingpowered.ketting.core.Ketting/]: Reloaded 267 help topics
+[02Dec2024 21:21:57.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6295ms or 125 ticks behind
+[02Dec2024 21:21:57.102] [Craft Scheduler Thread - 3/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ce/ajneb97/managers/EventsManager$1
+[02Dec2024 21:21:57.978] [Dynmap Render Thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/snakeyaml/serializer/Serializer$1
+[02Dec2024 21:22:06.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap hide
+[02Dec2024 21:22:12.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap show
+[02Dec2024 21:23:02.143] [Dynmap Render Thread/INFO] [org.dynmap.bukkit.DynmapPlugin/]: [dynmap] Loading default resource pack
+[02Dec2024 21:23:02.896] [Dynmap Render Thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/hdmap/TexturePack$1
+[02Dec2024 21:23:02.897] [Dynmap Render Thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/hdmap/TexturePackHDShader$1
+[02Dec2024 21:23:02.897] [Dynmap Render Thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/hdmap/ShadowHDLighting$1
+[02Dec2024 21:23:02.898] [Dynmap Render Thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/hdmap/IsoHDPerspective$1
+[02Dec2024 21:23:03.248] [Dynmap Render Thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/hdmap/CaveHDShader$1
+[02Dec2024 21:25:12.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap fullrender
+[02Dec2024 21:25:12.075] [Dynmap Render Thread/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/snakeyaml/emitter/Emitter$1
+[02Dec2024 21:25:45.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap url
+[02Dec2024 21:25:56.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap webregister
+[02Dec2024 21:26:13.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 21:26:13.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
