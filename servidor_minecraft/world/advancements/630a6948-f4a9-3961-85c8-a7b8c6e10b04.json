@@ -1,81 +1,16 @@
 {
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-01 03:27:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-01 03:27:57 +0000"
+      "unlock_right_away": "2024-12-02 21:08:30 +0000"
     },
     "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-01 03:27:57 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-12-01 03:27:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2024-12-01 03:27:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-01 03:27:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-01 03:27:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-01 03:27:58 +0000"
-    },
-    "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_peaks": "2024-12-01 03:27:58 +0000"
+      "minecraft:desert": "2024-12-02 21:08:31 +0000",
+      "minecraft:savanna": "2024-12-02 21:13:07 +0000"
     },
     "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-01 03:27:58 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-12-01 03:29:09 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_monasteries": {
-    "criteria": {
-      "location0": "2024-12-01 03:29:10 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_infested_temple_map": {
-    "criteria": {
-      "find_map": "2024-12-01 03:29:12 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
