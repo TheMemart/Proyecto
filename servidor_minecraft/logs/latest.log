@@ -412,3 +412,4 @@
 [04Dec2024 01:59:36.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap radiusrender world
 [04Dec2024 01:59:43.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap radiusrender 500
 [04Dec2024 01:59:50.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mart issued server command: /dynmap render
+[04Dec2024 02:12:26.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was slain by Zombie

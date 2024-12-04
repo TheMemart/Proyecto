@@ -1284,3 +1284,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Dec2024 02:00:20.162] [etp339879476-137/DEBUG] [org.kettingpowered.ketting.asm.SwitchTableFixer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/dynmap/jetty/http/HttpTokens$1
 [04Dec2024 02:02:04.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 02:02:04.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 02:07:04.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 02:07:04.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 02:12:04.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 02:12:04.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 02:12:26.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart was slain by Zombie
+[04Dec2024 02:17:04.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 02:17:04.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
