@@ -4660,3 +4660,51 @@ com.google.gson.JsonSyntaxException: Missing name, expected to find a string
 [06Dec2024 00:47:36.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/boss/BarColor
 [06Dec2024 00:47:36.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/boss/BarStyle
 [06Dec2024 00:47:36.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/boss/BarFlag
+[06Dec2024 01:08:25.438] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[06Dec2024 01:08:25.468] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[06Dec2024 01:08:25.474] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mart is 630a6948-f4a9-3961-85c8-a7b8c6e10b04
+[06Dec2024 01:08:29.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityExhaustionEvent$ExhaustionReason
+[06Dec2024 01:08:29.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerSpawnChangeEvent$Cause
+[06Dec2024 01:08:29.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/WeatherType
+[06Dec2024 01:08:29.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[06Dec2024 01:08:29.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/PlayerModelPart
+[06Dec2024 01:08:29.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerLoginEvent$Result
+[06Dec2024 01:08:29.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[06Dec2024 01:08:29.682] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[06Dec2024 01:08:29.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mart joined the game
+[06Dec2024 01:08:29.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mart[/127.43.243.108:52187] logged in with entity id 314 at ([world]-31.735343386352277, 74.0, 527.6902811780632)
+[06Dec2024 01:08:30.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[06Dec2024 01:08:30.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[06Dec2024 01:08:30.115] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/BigDripleaf$Tilt
+[06Dec2024 01:08:30.117] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Bamboo$Leaves
+[06Dec2024 01:08:30.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Bed$Part
+[06Dec2024 01:08:30.120] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Bell$Attachment
+[06Dec2024 01:08:30.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/FaceAttachable$AttachedFace
+[06Dec2024 01:08:30.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Switch$Face
+[06Dec2024 01:08:30.124] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Axis
+[06Dec2024 01:08:30.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Chest$Type
+[06Dec2024 01:08:30.126] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Wall$Height
+[06Dec2024 01:08:30.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/Bisected$Half
+[06Dec2024 01:08:30.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Door$Hinge
+[06Dec2024 01:08:30.139] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Jigsaw$Orientation
+[06Dec2024 01:08:30.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/Rail$Shape
+[06Dec2024 01:08:30.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Instrument
+[06Dec2024 01:08:30.147] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Comparator$Mode
+[06Dec2024 01:08:30.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/RedstoneWire$Connection
+[06Dec2024 01:08:30.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Stairs$Shape
+[06Dec2024 01:08:30.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Slab$Type
+[06Dec2024 01:08:30.157] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/StructureBlock$Mode
+[06Dec2024 01:08:30.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/SculkSensor$Phase
+[06Dec2024 01:08:30.174] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/PointedDripstone$Thickness
+[06Dec2024 01:08:30.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/TechnicalPiston$Type
+[06Dec2024 01:08:31.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[06Dec2024 01:08:31.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[06Dec2024 01:08:31.785] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[06Dec2024 01:09:05.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[06Dec2024 01:09:05.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Fluid
+[06Dec2024 01:09:05.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[06Dec2024 01:09:10.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/entity/Pose
+[06Dec2024 01:09:13.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[06Dec2024 01:09:13.211] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[06Dec2024 01:09:13.211] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[06Dec2024 01:09:54.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/BlockIgniteEvent$IgniteCause
