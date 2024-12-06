@@ -6,6 +6,14 @@ Config:
     variable_replacement: false
   register_commands:
   - hello
+  - ruleta verde
+  - ruleta turqueza
+  - ruleta rosada
+  - ruleta roja
+  - ruleta naranja
+  - ruleta morada
+  - ruleta azul
+  - ruleta amarilla
   to_condition_groups:
     group1:
     - '%player_has_permission_conditionalevents.somepermission% == yes'
